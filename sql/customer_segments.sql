@@ -1,5 +1,4 @@
 -- Customer Segments based on RFM scores
--- Maps RFM scores to actionable segments
 
 WITH rfm AS (
     SELECT *,
